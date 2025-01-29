@@ -1,0 +1,14 @@
+{
+    rem: 16;
+    aspect-ratio: auto 500 / 500;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    width: auto;
+    transform: translateX(-50%);
+    object-fit: contain;
+    top: 5vh;
+    height: 12vh;
+    left: 7vw;
+    color: transparent;
+}
